@@ -114,8 +114,8 @@ npm start
 ### Managing Students
 - Navigate to the Students page
 - Add new students manually or import from Excel
-- Search for students by name or login ID
-- View badge history and payment status
+- Search for students by name or login
+- Print Badge
 
 ### Declaring Lost Badges
 - Navigate to the Badges page
@@ -128,13 +128,11 @@ npm start
 - Create new user accounts via email invitation
 - Manage roles and permissions on the Roles page
 
-## 📜 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 👥 Contributors
 
-- [Your Name](https://github.com/yourusername) - Developer
+- Asmae Mouncif - Developer
+- Saida Adraoui - Developer
+- Hanane Makboul - Developer
 
 ## 🙏 Acknowledgements
 
