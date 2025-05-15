@@ -1,7 +1,5 @@
 # 1337 Badge Management System
 
-![1337 Badge System Logo](https://i.imgur.com/YWyKJFs.png)
-
 A comprehensive web application for managing student badges at 1337 Coding School. This system allows administrators to track students, manage badge losses, handle payments, and print replacement badges.
 
 ## 📋 Overview
