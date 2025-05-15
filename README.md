@@ -73,10 +73,11 @@ cd 1337-badge-system
 2. Install dependencies
 ```bash
 # Install backend dependencies
+cd badgebackend
 npm install
 
 # Install frontend dependencies
-cd client
+cd badgefrontend
 npm install
 cd ..
 ```
@@ -99,16 +100,8 @@ npm run create-admin
 
 5. Start the application
 ```bash
-# Run backend and frontend concurrently in development mode
-npm run dev
-
-# Or run separately
-# Backend
-npm run server
-
-# Frontend
-npm run client
-```
+# Run backend and frontend
+npm start
 
 ## 🚀 Usage
 
