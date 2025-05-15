@@ -66,7 +66,7 @@ The 1337 Badge Management System is designed to streamline the process of handli
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/1337-badge-system.git
+git clone https://github.com/AsmaeMouncif/badge_system.git
 cd 1337-badge-system
 ```
 
@@ -94,7 +94,7 @@ FRONTEND_URL=http://localhost:3000
 4. Initialize the database
 ```bash
 # Create default roles and admin account
-npm run setup
+npm run create-admin
 ```
 
 5. Start the application
