@@ -9,7 +9,7 @@ The 1337 Badge Management System is designed to streamline the process of handli
 - Track all students and their information
 - Record and manage badge losses
 - Process payments for replacement badges
-- Print new badges with
+- Print new badges
 - Manage user accounts with different permission levels
 
 ## ✨ Features
