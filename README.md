@@ -14,9 +14,9 @@ The 1337 Badge Management System is designed to streamline the process of handli
 
 ## 🎥 Video Demonstration
 
-[![1337 Badge System Demo](https://img.youtube.com/vi/daBuzDNWR7w/0.jpg)](https://youtu.be/daBuzDNWR7w?si=GokjjEKW34Y6quii)
-
-Click the image above to watch a demo of the system in action.
+<a href="https://youtu.be/daBuzDNWR7w?si=GokjjEKW34Y6quii">
+  <img src="https://img.youtube.com/vi/daBuzDNWR7w/0.jpg" alt="System Demo" style="width:100%; height:500px; object-fit:cover;">
+</a>
 
 ## ✨ Features
 
