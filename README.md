@@ -66,7 +66,7 @@ The 1337 Badge Management System is designed to streamline the process of handli
 
 1. Clone the repository
 ```bash
-git clone https://github.com/AsmaeMouncif/badge_system.git
+git clone https://github.com/AsmaeMouncif/badge-system.git
 cd 1337-badge-system
 ```
 
