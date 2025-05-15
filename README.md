@@ -102,6 +102,7 @@ npm run create-admin
 ```bash
 # Run backend and frontend
 npm start
+```
 
 ## 🚀 Usage
 
@@ -138,9 +139,3 @@ npm start
 
 - [1337 Coding School](https://1337.ma/) for the inspiration and support
 - All contributors who helped improve this project
-
-## 📞 Contact
-
-For any questions or suggestions, please contact:
-- Email: your.email@example.com
-- GitHub: [@yourusername](https://github.com/yourusername)
