@@ -19,12 +19,12 @@ The 1337 Badge Management System is designed to streamline the process of handli
 - Import students from Excel files
 - Export student data with badge history
 - Search and filter students
+- Generate printable replacement badges
 
 ### Badge Management
 - Declare lost badges with automatic pricing calculation
 - Track badge loss history per student
 - Update payment status
-- Generate printable replacement badges
 
 ### User Management
 - Role-based access control system
