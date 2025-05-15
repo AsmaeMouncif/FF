@@ -12,6 +12,12 @@ The 1337 Badge Management System is designed to streamline the process of handli
 - Print new badges
 - Manage user accounts with different permission levels
 
+## 🎥 Video Demonstration
+
+[![1337 Badge System Demo](https://img.youtube.com/vi/daBuzDNWR7w/0.jpg)](https://youtu.be/daBuzDNWR7w?si=GokjjEKW34Y6quii)
+
+Click the image above to watch a demo of the system in action.
+
 ## ✨ Features
 
 ### Student Management
